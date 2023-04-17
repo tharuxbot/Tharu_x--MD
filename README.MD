@@ -1,4 +1,4 @@
-# [SCAN QR](https://x-asena-qr.herokuapp.com)
+# [SCAN QR](https://replit.com/@MusicParadise/ThruX-QR?v=1)
 
 # [DEPLOY](https://heroku.com/deploy?template=https://github.com/V1P3R-X/X-AsenaDuplicated) 
 
